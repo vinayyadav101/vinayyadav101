@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="100%" src="https://github.com/vinayyadav101/vinayyadav101/blob/09cbeb03c44d0543604f84682d985ec022d316e6/c633c20ede82f0e0ced7d570dbe3a1f3.gif"  />
+  <img height="200" src="https://github.com/vinayyadav101/vinayyadav101/blob/09cbeb03c44d0543604f84682d985ec022d316e6/c633c20ede82f0e0ced7d570dbe3a1f3.gif"  />
 </div>
 
 ###
@@ -64,18 +64,19 @@
 </div>
 
 ###
-<h3 align="left">Connect with me:</h3>
+
+<h2 align="left">Connect with me:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="vinay60242@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://www.instagram.com/_vinay._yadav/#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  </a href="https://www.hackerrank.com/vinay60242" target="blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
 ###
