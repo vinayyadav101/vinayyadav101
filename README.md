@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/vinayyadav101/vinayyadav101/blob/09cbeb03c44d0543604f84682d985ec022d316e6/c633c20ede82f0e0ced7d570dbe3a1f3.gif"  />
+  <img height="300" width="100%" src="https://github.com/vinayyadav101/vinayyadav101/blob/09cbeb03c44d0543604f84682d985ec022d316e6/c633c20ede82f0e0ced7d570dbe3a1f3.gif"  />
 </div>
 
 ###
@@ -66,8 +66,6 @@
 ###
 
 <h2 align="left">Connect with me:</h2>
-
-###
 
 <div align="left">
   <a href="mailto:vinay60242@gmail.com" target="_blank">
