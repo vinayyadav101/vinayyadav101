@@ -37,10 +37,10 @@ Here are some of my **frontend-only** projects that showcase my skills in web de
 |-----------------------|----------------------------------|--------------------|---------------------|
 | **[Eguru]**        | 🎨 [View Live](https://vinayyadav101.github.io/Milestone/Project-1/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS |
 | **[Hospital]**     | 🏥 [View Live](https://vinayyadav101.github.io/Milestone/Project-2/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS |
-| **[Bike]**         | 🏍️ [View Live](https://vinayyadav101.github.io/Milestone/Project-3/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
-| **[NFT]**          | 🖼️ [View Live](https://vinayyadav101.github.io/Milestone/Project-4/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
-| **[Pixel Lab]**    | 🖌️ [View Live](https://vinayyadav101.github.io/Milestone/Project-5/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
-| **[Liquid]**       | 💧 [View Live](https://vinayyadav101.github.io/Milestone/Project-6/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[Bike]**         | 🏍️ [View Live](https://vinayyadav101.github.io/Milestone/Project-3/main/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[NFT]**          | 🖼️ [View Live](https://vinayyadav101.github.io/Milestone/Project-4/main/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[Pixel Lab]**    | 🖌️ [View Live](https://vinayyadav101.github.io/Milestone/Project-5/main/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[Liquid]**       | 💧 [View Live](https://vinayyadav101.github.io/Milestone/Project-6/main/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
 | **[Bootstrap]**    | ⚡ [View Live](https://vinayyadav101.github.io/Bootstarp/) |[View](https://github.com/vinayyadav101/Bootstarp) | HTML, CSS, Bootatrap|                                 
 
 ---
