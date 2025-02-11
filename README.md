@@ -35,12 +35,12 @@ Here are some of my **frontend-only** projects that showcase my skills in web de
 
 | Project Name          | Preview                          | Readme             | Tech Stack         |
 |-----------------------|----------------------------------|--------------------|---------------------|
-| **[Eguru]**        | 🎨 [View Live](https://vinayyadav101.github.io/Milston/project-1/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS |
-| **[Hospital]**     | 🏥 [View Live](https://vinayyadav101.github.io/Milston/project-2/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS |
-| **[Bike]**         | 🏍️ [View Live](https://vinayyadav101.github.io/Milston/project-3/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
-| **[NFT]**          | 🖼️ [View Live](https://vinayyadav101.github.io/Milston/project-4/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
-| **[Pixel Lab]**    | 🖌️ [View Live](https://vinayyadav101.github.io/Milston/project-5/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
-| **[Liquid]**       | 💧 [View Live](https://vinayyadav101.github.io/Milston/project-6/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[Eguru]**        | 🎨 [View Live](https://vinayyadav101.github.io/Milston/Project-1/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS |
+| **[Hospital]**     | 🏥 [View Live](https://vinayyadav101.github.io/Milston/Project-2/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS |
+| **[Bike]**         | 🏍️ [View Live](https://vinayyadav101.github.io/Milston/Project-3/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[NFT]**          | 🖼️ [View Live](https://vinayyadav101.github.io/Milston/Project-4/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[Pixel Lab]**    | 🖌️ [View Live](https://vinayyadav101.github.io/Milston/Project-5/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
+| **[Liquid]**       | 💧 [View Live](https://vinayyadav101.github.io/Milston/Project-6/)  |[view](https://github.com/vinayyadav101/Milestone)| HTML, CSS, Tailwind |
 | **[Bootstrap]**    | ⚡ [View Live](https://vinayyadav101.github.io/Bootstarp/) |[View](https://github.com/vinayyadav101/Bootstarp) | HTML, CSS, Bootatrap|                                 
 
 ---
